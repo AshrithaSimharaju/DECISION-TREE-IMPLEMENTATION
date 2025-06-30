@@ -21,5 +21,5 @@ The dataset was preprocessed, analyzed, and then used to train a decision tree m
 - **plot_tree**: To visualize the structure of the decision tree.
 
 
-##OUTPUT:
-[https://github.com/AshrithaSimharaju/DECISION-TREE-IMPLEMENTATION/issues/1#issue-3188391990](https://github.com/user-attachments/assets/09698dab-4eaa-47ad-a8fe-58b90140ea37[](url))
+**Output Video:** [Click here to view](https://github.com/user-attachments/assets/09698dab-4eaa-47a2-8ae1-1e2c0c47bbf0)
+
